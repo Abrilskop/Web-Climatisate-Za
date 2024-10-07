@@ -14,6 +14,16 @@ You can access the project demo at the following link:
 
 In the demo, you will explore the various functionalities of the presentation and discover how you can get involved in the fight against climate change.
 
+## Final Project
+Access the final presentation of Climatizate ZA through the following link:
+
+[Final Presentation Climatizate ZA](https://view.genially.com/6702efbf84539aac21991581/interactive-content-climatizate-za)
+
+## Additional Website
+To explore more about the project, visit our additional website:
+
+[Explore Climatizate ZA](https://view.genially.com/6702efbf84539aac21991581/interactive-content-climatizate-za)
+
 ## Features
 
 - Updated information on carbon dioxide concentrations.
